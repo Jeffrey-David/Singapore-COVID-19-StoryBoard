@@ -3,6 +3,8 @@
 ## Story Board
 ### Panel 1 – Overview of the Storyboard
 
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/7a8b38d4-8dda-4465-9e7a-f3bbeec5a5b8)
+
 •	The complete introduction to the entire storyboard is provided by this panel. Its cheerful orange colour scheme symbolizes Singapore's tenacity and optimism during the pandemic.
 
 •	Each pandemic wave is color-coded in the chart in this panel: blue for the first wave, red for the Delta wave, and green for the Omicron wave. It summarizes Singapore's complete COVID-19 experience. This visual portrayal successfully draws the viewer in and lays the groundwork for the following panels.
@@ -11,6 +13,8 @@
 
 
 ### Panel 2 – Initial Wave: The Early Days
+
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/55fb3069-1a42-48d5-b618-dd4b6cb5b05c)
 
 •	The calm blue colour scheme of Panel 2 perfectly encapsulates the ambiance of the pandemic's early stages, when everything was brand-new and unknowable.
 
@@ -23,12 +27,16 @@
 
 ### Panel 3 – Initial Wave: How it Unfolded
 
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/03718784-c8b8-4522-818a-55d18748fbf5)
+
 •	Panel 3 keeps the calming blue colour and carries on the motif from the first wave. There are three useful charts in it. The casualty by case ratio for each country is shown in the first graph. 
 
 •	The second graphic monitors vaccination rates per 100 people, with Singapore's aggressive approach highlighted by the constant dark blue colour, which reflects Singapore and emphasizes its essential significance. Different nations are represented by contrasting hues.
 
 •	The final graph provides information on ward usage, including general, intensive care unit, and isolation units. Red is used for ICUs to represent urgency, whereas green is used for normal wards to represent healing and optimism.
 Panel 4 – Delta Wave: An Outline
+
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/3e01c42a-6b00-4143-a896-2c2e841ce615)
 
 •	In Panel 4, the colour red denotes peril and anguish and represents Singapore's reaction to the powerful Delta wave. Two important graphs are included in this panel.
 
@@ -41,6 +49,8 @@ Panel 4 – Delta Wave: An Outline
 
 ### Panel 5 – Delta Wave: Lessons Learned
 
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/5974e481-abdb-452c-9ff7-62b5349a0a38)
+
 •	In keeping with the red Delta wave motif, Panel 5 considers the important lessons Singapore learned during this trying time.
 
 •	There are three charts on the panel. With red for the Delta wave and blue for the original wave, the first chart attentively contrasts cases and casualties between the two waves.
@@ -52,6 +62,8 @@ Panel 4 – Delta Wave: An Outline
 
 ### Panel 6 – Omicron Wave
 
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/e782d2d4-7221-4fba-ad57-880cd288780a)
+
 •	Green-themed Panel 6 depicts Singapore's transformation as residents become accustomed to living with COVID-19 during the Omicron wave. Three charts are displayed. 
 
 •	In the first graph, local and imported cases during the Omicron wave are shown as bars. Red bars represent danger, and there are notes next to them that point out important occurrences.
@@ -60,6 +72,8 @@ Panel 4 – Delta Wave: An Outline
 
 
 ### Panel 7 – COVID-19 Vaccination Compared to the World
+
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/e93afeca-e177-424b-9090-87f1f010e761)
 
 •	By concentrating on COVID-19 immunization rates in Singapore and the larger global context, Panel 7 provides a novel viewpoint.
 
@@ -71,6 +85,8 @@ Panel 4 – Delta Wave: An Outline
 
 
 ### Panel 8 – Current State of COVID-19
+
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/7f5a8459-a620-4294-bde5-c30e3bd86f14)
 
 •	Panel 8, which is decorated in green, depicts Singapore's progress toward learning and development despite the pandemic. Three charts are shown in this panel.
 
@@ -84,6 +100,8 @@ Panel 4 – Delta Wave: An Outline
 
 
 ### Panel 9 – Conclusion
+
+![image](https://github.com/Jeffrey-David/Singapore-COVID-19-StoryBoard/assets/66271004/31b05576-7ca7-4407-946f-88f772c0bda2)
 
 •	The conclusion panel serves as a wrap-up for the entire storyboard.
 
